@@ -17,22 +17,6 @@ Proyek ini bertujuan untuk membangun model prediksi banjir menggunakan teknik Ma
 2. ✅ Membangun model prediksi yang akurat untuk memperkirakan risiko banjir.
 3. ✅ Mengoptimalkan model dengan teknik Feature Engineering dan Hyperparameter Tuning.
 
-4. # 🌊 Flood Prediction - Regression
-
-## 📌 Deskripsi Proyek
-Proyek ini bertujuan untuk membangun model prediksi banjir menggunakan teknik Machine Learning berbasis regresi. Dataset yang digunakan mencakup variabel cuaca dan faktor lingkungan yang mempengaruhi kemungkinan terjadinya banjir.
-
-### 🔍 Teknik yang digunakan:
-- **📥 Data Loading**: Memuat dataset ke dalam lingkungan pemrosesan.
-- **⚙️ Data Preprocessing**: Membersihkan dan menyiapkan data sebelum analisis.
-- **📊 Exploratory Data Analysis (EDA)**: Menganalisis distribusi data dan hubungan antar variabel.
-- **📈 Model Training**: Melatih model regresi untuk memprediksi risiko banjir berdasarkan variabel cuaca.
-
-## 🎯 Tujuan
-1. ✅ Menganalisis faktor-faktor yang mempengaruhi banjir.
-2. ✅ Membangun model prediksi yang akurat untuk memperkirakan risiko banjir.
-3. ✅ Mengoptimalkan model dengan teknik Feature Engineering dan Hyperparameter Tuning.
-
 ## 📊 Data Statistik
 - **Jumlah data**: 845,886
 - **Jumlah data latih**: 676,708
